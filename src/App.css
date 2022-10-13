@@ -1,38 +1,16 @@
-.App {
-  text-align: center;
+/* Color Theme Swatches in Hex */
+.downlandcard-1-hex {
+  color: #d4b987;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.downlandcard-2-hex {
+  color: #d62081;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.downlandcard-3-hex {
+  color: #000000;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.downlandcard-4-hex {
+  color: #822d8d;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.downlandcard-5-hex {
+  color: #a292e8;
 }
